@@ -1,0 +1,14 @@
+D:\Projects\GitProject\oop-professional\ooppro\bin\Debug\net8.0\oopPro.exe
+D:\Projects\GitProject\oop-professional\ooppro\bin\Debug\net8.0\oopPro.deps.json
+D:\Projects\GitProject\oop-professional\ooppro\bin\Debug\net8.0\oopPro.runtimeconfig.json
+D:\Projects\GitProject\oop-professional\ooppro\bin\Debug\net8.0\oopPro.dll
+D:\Projects\GitProject\oop-professional\ooppro\bin\Debug\net8.0\oopPro.pdb
+D:\Projects\GitProject\oop-professional\ooppro\obj\Debug\net8.0\oopPro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GitProject\oop-professional\ooppro\obj\Debug\net8.0\oopPro.AssemblyInfoInputs.cache
+D:\Projects\GitProject\oop-professional\ooppro\obj\Debug\net8.0\oopPro.AssemblyInfo.cs
+D:\Projects\GitProject\oop-professional\ooppro\obj\Debug\net8.0\oopPro.csproj.CoreCompileInputs.cache
+D:\Projects\GitProject\oop-professional\ooppro\obj\Debug\net8.0\oopPro.dll
+D:\Projects\GitProject\oop-professional\ooppro\obj\Debug\net8.0\refint\oopPro.dll
+D:\Projects\GitProject\oop-professional\ooppro\obj\Debug\net8.0\oopPro.pdb
+D:\Projects\GitProject\oop-professional\ooppro\obj\Debug\net8.0\oopPro.genruntimeconfig.cache
+D:\Projects\GitProject\oop-professional\ooppro\obj\Debug\net8.0\ref\oopPro.dll

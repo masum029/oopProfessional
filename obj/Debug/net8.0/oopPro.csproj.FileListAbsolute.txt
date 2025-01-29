@@ -12,3 +12,4 @@ D:\Projects\GitProject\oop-professional\ooppro\obj\Debug\net8.0\refint\oopPro.dl
 D:\Projects\GitProject\oop-professional\ooppro\obj\Debug\net8.0\oopPro.pdb
 D:\Projects\GitProject\oop-professional\ooppro\obj\Debug\net8.0\oopPro.genruntimeconfig.cache
 D:\Projects\GitProject\oop-professional\ooppro\obj\Debug\net8.0\ref\oopPro.dll
+D:\Projects\GitProject\oop-professional\ooppro\obj\Debug\net8.0\oopPro.sourcelink.json

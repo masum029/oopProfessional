@@ -33,6 +33,10 @@ public void Deposit(double amount)
     if(amount > balance){
         throw new Exception("Insufficient funds");
     }
+    if(balance - amount < 0){
+        throw new Exception("Insufficient funds");
+
+    }
 
         balance -= amount;
     }
